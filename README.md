@@ -2,7 +2,7 @@ Maze
 ========
 
 B-Method Specification Language Maze.
-------------
+
 
 How to play
 ------------
