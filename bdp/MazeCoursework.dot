@@ -1,0 +1,4 @@
+digraph {
+Maze [ label=" Maze " shape= box ]
+
+}
